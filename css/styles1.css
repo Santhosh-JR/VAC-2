@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+body{
+    background-image: linear-gradient(to bottom right,#fc8042,#f8712d);
+    color:black;
+}
